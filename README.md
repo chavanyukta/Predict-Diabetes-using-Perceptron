@@ -32,7 +32,7 @@ The project covers data loading, preprocessing, model training with hyperparamet
 
 ## Project Report
 The full project report detailing the methodology, results, and analysis is available in the file:  
-[Diabetes Prediction Using Perceptron Report.pdf](./Diabetes\ Prediction\ Using\ Perceptron\ Report.pdf)
+[Predict Diabetes using Perceptron Report.pdf](./Predict%20Diabetes%20using%20Perceptron%20Report.pdf)
 
 ## Contact
 Yukta Sanjiv Chavan
